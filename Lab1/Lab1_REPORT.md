@@ -50,6 +50,7 @@ Date of finished: ___.09.2025
 
 9. docker run -d -p 8080:80 --name web-server nginx:alpine
 ![](https://github.com/juliadv8/devops-lab-duchenko/blob/main/Lab1/Lab1_screen16.png)
+![](https://github.com/juliadv8/devops-lab-duchenko/blob/main/Lab1/Lab1_screen25.png)
 10. http://localhost:8080
 ![](https://github.com/juliadv8/devops-lab-duchenko/blob/main/Lab1/Lab1_screen17.png)
 11. docker logs web-server
