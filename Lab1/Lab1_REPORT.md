@@ -6,7 +6,7 @@ Group: U4225
 Author: Duchenko Yulia Viktorovna  
 Lab: Lab1  
 Date of create: 30.09.2025  
-Date of finished: ___.09.2025  
+Date of finished: 03.10.2025  
 
 ## Отчет по практике - Лабораторная работа №1
 Во время выполнения задания выполнены следующие шаги:
