@@ -1,4 +1,4 @@
-name: CI/CD for Lab2
+name: CI/CD for Docker app
 
 on:
   push:
