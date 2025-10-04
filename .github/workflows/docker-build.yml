@@ -5,7 +5,9 @@ on:
     branches: 
     - main
     - develop
-
+env:
+  IMAGE_NAME: lab2 
+  
 jobs:
   build-and-push:
     runs-on: ubuntu-latest
