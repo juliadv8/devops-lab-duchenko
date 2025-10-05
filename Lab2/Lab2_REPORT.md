@@ -12,21 +12,28 @@ Date of finished: ___.10.2025
 Во время выполнения задания выполнены следующие шаги:
 
 ### 1. Подготовка проекта:
-- Скопировать файлы из первой лабораторной (app.py, requirements.txt, Dockerfile) в новый репозиторий
+- Скопировала файлы из первой лабораторной (app.py, requirements.txt, Dockerfile) в новый репозиторий
 - Создала аккаунт на Docker Hub и новый репозиторий на Docker Hub для образа
 
 ### 2. Настройка GitHub Actions:
-- Создала папку .github/workflows/ в корне проекта
-- Создала файл docker-build.yml с пайплайном, который должен:
+- Создала папку .github/workflows/ в корне проекта и создала файл docker-build.yml с пайплайном, который должен выполнять условия:
+![](https://github.com/juliadv8/devops-lab-duchenko/blob/main/Lab2/lab2_screen6.png)
 
 ### 3. Настройка секретов:
 - В настройках GitHub репозитория добавила секреты:
+![](https://github.com/juliadv8/devops-lab-duchenko/blob/main/Lab2/lab2_screen7.png)
 
 ### 4.Тестирование пайплайна:
 - Сделала коммит и пуш в main ветку
 - Проверила выполнение пайплайна в разделе Actions
 - Провелила наличие образа в Docker Hub
+![](https://github.com/juliadv8/devops-lab-duchenko/blob/main/Lab2/lab2_screen5.png)
+![](https://github.com/juliadv8/devops-lab-duchenko/blob/main/Lab2/lab2_screen4.png)
 - Проверила логи выполнения каждого шага
 
 ## Дополнительное задание: 
-- Создала ветку develop для разработки, выпонлнила условия и проверила. 
+- Создала ветку develop для разработки, выполнила условия и проверила. 
+
+![](https://github.com/juliadv8/devops-lab-duchenko/blob/main/Lab2/lab2_screen1.png)
+![](https://github.com/juliadv8/devops-lab-duchenko/blob/main/Lab2/lab2_screen3.png)
+![](https://github.com/juliadv8/devops-lab-duchenko/blob/main/Lab2/lab2_screen2.png)
