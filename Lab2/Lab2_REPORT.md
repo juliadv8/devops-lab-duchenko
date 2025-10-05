@@ -17,6 +17,7 @@ Date of finished: ___.10.2025
 
 ### 2. Настройка GitHub Actions:
 - Создала папку .github/workflows/ в корне проекта и создала файл docker-build.yml с пайплайном, который должен выполнять условия:
+![](https://github.com/juliadv8/devops-lab-duchenko/blob/main/Lab2/lab2_screen8.jpg)
 ![](https://github.com/juliadv8/devops-lab-duchenko/blob/main/Lab2/lab2_screen6.png)
 
 ### 3. Настройка секретов:
