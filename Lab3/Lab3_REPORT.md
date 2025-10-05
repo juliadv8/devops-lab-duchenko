@@ -5,7 +5,7 @@ Year: 2025/2026
 Group: U4225  
 Author: Duchenko Yulia Viktorovna  
 Lab: Lab3  
-Date of create: 04.10.2025  
+Date of create: 04.10.2025   
 Date of finished: ___.10.2025 
 
 ## Отчет по практике - Лабораторная работа №3 "Мониторинг с Prometheus и Grafana"
