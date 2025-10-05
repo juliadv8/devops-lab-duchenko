@@ -6,7 +6,7 @@ Group: U4225
 Author: Duchenko Yulia Viktorovna  
 Lab: Lab2 
 Date of create: 04.10.2025  
-Date of finished: ___.10.2025 
+Date of finished: ___.10.2025  
 
 ## Отчет по практике - Лабораторная работа №2 "CI/CD для Docker приложения"
 Во время выполнения задания выполнены следующие шаги:
